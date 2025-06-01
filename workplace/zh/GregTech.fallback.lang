@@ -1935,6 +1935,12 @@ languagefile {
     S:gt.multiitem.books.32003.tooltip=包含了材料的数据
     S:gt.multiitem.books.32004.tooltip=封面有一个辐射符号
     S:gt.multiitem.books.32005.tooltip=封面有一个辐射符号
+	S:gt.multiitem.books.32700=要素宝典
+    S:gt.multiitem.books.32700.tooltip=要素和物品都在这里
+    S:gt.multiitem.books.32765=落灰的指导书
+    S:gt.multiitem.books.32765.tooltip=战利品：一本随机的手册
+    S:gt.multiitem.books.32766=落灰的材料词典
+    S:gt.multiitem.books.32766.tooltip=战利品：一本随机的材料词典
     S:gt.multiitem.books.4.tooltip=
     S:gt.multiitem.books.5.tooltip=
     S:gt.multiitem.books.6.tooltip=
@@ -2114,6 +2120,8 @@ languagefile {
     S:gt.multiitem.bottles.3200.tooltip=
     S:gt.multiitem.bottles.32000=墨水瓶
     S:gt.multiitem.bottles.32001=罐装靛蓝色染料
+	S:gt.multiitem.bottles.32761=浑浊的瓶子
+    S:gt.multiitem.bottles.32761.tooltip=战利品：随机的药水
     S:gt.multiitem.bottles.32762=焦油瓶
     S:gt.multiitem.bottles.32762.tooltip=也可以用作胶水
     S:gt.multiitem.bottles.32763=鲜血瓶
@@ -3530,6 +3538,14 @@ languagefile {
     S:gt.multiitem.randomtools.12008.tooltip=未开封
     S:gt.multiitem.randomtools.12009=大脑科技高级强化航空布胶带 FAL-84
     S:gt.multiitem.randomtools.12009.tooltip=已开封
+	S:gt.multiitem.randomtools.13000=树苗袋
+    S:gt.multiitem.randomtools.13000.tooltip=战利品：树苗
+    S:gt.multiitem.randomtools.13001=种子袋
+    S:gt.multiitem.randomtools.13001.tooltip=战利品：一些随机的种子
+    S:gt.multiitem.randomtools.13002=宝石袋
+    S:gt.multiitem.randomtools.13002.tooltip=战利品：宝石，一定包含一个无瑕的
+    S:gt.multiitem.randomtools.13003=战利品袋
+    S:gt.multiitem.randomtools.13003.tooltip=战利品：杂项物品
     S:gt.multiitem.randomtools.1998=二氧化碳灭火器 (CO2)
     S:gt.multiitem.randomtools.1999=二氧化碳灭火器 (CO2)
     S:gt.multiitem.randomtools.2=铋青铜混合物
@@ -4388,6 +4404,7 @@ languagefile {
     S:gt.multitileentity.22002=浸洗器
     S:gt.multitileentity.22003=发酵器
     S:gt.multitileentity.22004=高压釜
+	S:gt.multitileentity.22010=熔化器
     S:gt.multitileentity.24900=光纤
     S:gt.multitileentity.24901=物流线缆
     S:gt.multitileentity.27000=未绝缘红色合金线缆
