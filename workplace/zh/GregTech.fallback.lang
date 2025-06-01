@@ -4444,6 +4444,7 @@ languagefile {
     S:gt.multitileentity.31019=转速传感器
     S:gt.multitileentity.31020=盖革传感器
     S:gt.multitileentity.31021=激光传感器
+	S:gt.multitileentity.31022=流体体积传感器(单位: 千桶)
     S:gt.multitileentity.32000=微型末影传送门
     S:gt.multitileentity.32001=微型暮色传送门
     S:gt.multitileentity.32002=微型混沌传送门
@@ -4490,6 +4491,8 @@ languagefile {
     S:gt.multitileentity.32104=火药棒
     S:gt.multitileentity.32105=三明治
     S:gt.multitileentity.32108=藤蔓绳
+	S:gt.multitileentity.32109=彩虹木储罐
+    S:gt.multitileentity.32110=战利品板条箱
     S:gt.multitileentity.32700=硬币
     S:gt.multitileentity.32701=铸币模具
     S:gt.multitileentity.32702=筛选台
