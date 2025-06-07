@@ -2939,6 +2939,12 @@ languagefile {
     S:gt.multiitem.cans.3.tooltip=
     S:gt.multiitem.cans.31.tooltip=
     S:gt.multiitem.cans.32.tooltip=
+	S:gt.multiitem.cans.32764=罐装太空空气
+    S:gt.multiitem.cans.32764.tooltip=自然通风、无空气的太空空气（用于水下）
+    S:gt.multiitem.cans.32765=罐装热空气
+    S:gt.multiitem.cans.32765.tooltip=自然烟熏，无水的空气（用于水下）
+    S:gt.multiitem.cans.32766=罐装空气
+    S:gt.multiitem.cans.32766.tooltip=自然起泡，无盐的空气（用于水下）
     S:gt.multiitem.cans.33.tooltip=
     S:gt.multiitem.cans.34.tooltip=
     S:gt.multiitem.cans.35.tooltip=
